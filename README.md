@@ -31,23 +31,22 @@ Welcome to the **Food Delivery App**! 🍔🍕 This is the first version of the 
 
 Below are some screenshots of the current version of the app:
 
-<table>
+<table style="border-spacing: 20px; padding: 10px;">
   <tr>
-    <td>
+    <td style="text-align: center;">
       <img src="assets/image/1.png" alt="Main Page - Popular Foods" width="200">
-      <p align="center">Main Page</p>
+      <p>Main Page</p>
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="assets/image/2.png" alt="Popular Food Detail Page" width="200">
-      <p align="center">Popular Food Detail Page</p>
+      <p>Popular Food Detail Page</p>
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="assets/image/3.png" alt="Recommended Food Detail Page" width="200">
-      <p align="center">Recommended Food Detail Page</p>
+      <p>Recommended Food Detail Page</p>
     </td>
   </tr>
 </table>
-
 
 
 ---
