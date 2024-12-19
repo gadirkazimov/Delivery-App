@@ -31,14 +31,22 @@ Welcome to the **Food Delivery App**! 🍔🍕 This is the first version of the 
 
 Below are some screenshots of the current version of the app:
 
-![Main Page - Popular Foods](assets/image/1.png)
-*Main page displaying popular foods.*
-
-![Popular Food Detail Page](assets/image/2.png)
-*Food detail page where users can select quantity and add to cart.*
-
-![Recommended Food Detail Page](assets/image/3.png)
-*Food detail page where users can select quantity and add to cart.*
+<table>
+  <tr>
+    <td>
+      <img src="assets/image/1.png" alt="Main Page - Popular Foods" width="200">
+      <p align="center">Main Page</p>
+    </td>
+    <td>
+      <img src="assets/image/2.png" alt="Popular Food Detail Page" width="200">
+      <p align="center">Popular Food Detail Page</p>
+    </td>
+    <td>
+      <img src="assets/image/3.png" alt="Recommended Food Detail Page" width="200">
+      <p align="center">Recommended Food Detail Page</p>
+    </td>
+  </tr>
+</table>
 
 
 
